@@ -5,5 +5,5 @@
 @@||spike.legoeducation.com^
 @@||google.com^
 @@||github.com^
-@@|https://www.youtube.com/kids^
+@@|youtube.com/kids^
 @@||192.168.1.3^
